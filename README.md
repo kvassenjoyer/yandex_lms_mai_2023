@@ -1,7 +1,7 @@
 # yandex_lms_mai_2023
 
 # Общее 
-Мои решения не претендуют на clean code, оптимальность по времени или по памяти. Они просто работают и проходят тесты. 
+Мои решения не претендуют на clean code, оптимальность по времени или по памяти. Просто делюсь своими решениями. 
 
 Пока что решены лишь следующие модули:
 - Модуль 2.1 (20/20)
@@ -9,7 +9,7 @@
 - Модуль 2.3 (20/20)
 - Модуль 2.4 (20/20)
 - Модуль 3.1 (20/20)
-- Модуль 3.2 (14/20)
+- Модуль 3.2 (20/20)
 
 # Решения:
 <details>
@@ -38,6 +38,7 @@
 - [Сдача 10](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/18.py)
 - [Украшение чека](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/19.py)
 - [Мухи отдельно, котлеты отдельно](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/20.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
 
 <details>
@@ -66,6 +67,7 @@
 - [Территория зла](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/18.py)
 - [Автоматизация безопасности](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/19.py)
 - [Зайка — 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/20.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
 
 <details>
@@ -94,6 +96,7 @@
 - [Простая задача 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/18.py)
 - [Игра в «Угадайку»](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/19.py)
 - [Хайпанём немножечко!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/20.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
 
 <details>
@@ -122,6 +125,7 @@
 - [Новогоднее настроение 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/18.py)
 - [Числовой квадрат](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/19.py)
 - [Математическая выгода](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/20.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
 
 <details>
@@ -150,6 +154,7 @@
 - [RLE](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/18.py)
 - [Польский калькулятор](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/19.py)
 - [Польский калькулятор — 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/20.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
 
 <details>
@@ -172,10 +177,11 @@
 - [Однофамильцы — 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/12.py)
 - [Дайте чего-нибудь новенького!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/13.py)
 - [Это будет шедевр!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/14.py)
-- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
-- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
-- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
-- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
-- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [Двоичная статистика!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/15.py)
+- [Зайка — 10](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/16.py)
+- [Друзья друзей](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/17.py)
+- [Карта сокровищ](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/18.py)
+- [Частная собственность](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/19.py)
+- [Простая задача 4.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/20.py)
 - [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
