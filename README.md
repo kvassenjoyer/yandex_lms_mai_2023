@@ -18,7 +18,26 @@
 </summary>
 
 Задачи:
-- [2.1](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1)
+- [Привет, Яндекс!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/1.py)
+- [Привет, всем!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/2.py)
+- [Излишняя автоматизация](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/3.py)
+- [Сдача](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/4.py)
+- [Магазин](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/5.py)
+- [Чек](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/6.py)
+- [Делу — время, потехе — час](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/7.py)
+- [Наказание](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/8.py)
+- [Деловая колбаса](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/9.py)
+- [Детский сад — штаны на лямках](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/10.py)
+- [Автоматизация игры](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/11.py)
+- [Интересное сложение](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/12.py)
+- [Дед Мороз и конфеты](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/13.py)
+- [Шарики и ручки](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/14.py)
+- [В ожидании доставки](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/15.py)
+- [Доставка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/16.py)
+- [Ошибка кассового аппарата](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/17.py)
+- [Сдача 10](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/18.py)
+- [Украшение чека](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/19.py)
+- [Мухи отдельно, котлеты отдельно](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.1/20.py)
 </details>
 
 <details>
@@ -27,7 +46,26 @@
 </summary>
 
 Задачи:
-- [2.2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2)
+- [Просто здравствуй, просто как дела](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/1.py)
+- [Кто быстрее?](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/2.py)
+- [Кто быстрее на этот раз?](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/3.py)
+- [Список победителей](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/4.py)
+- [Яблоки](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/5.py)
+- [Сила прокрастинации](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/6.py)
+- [А роза упала на лапу Азора](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/7.py)
+- [Зайка — 1](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/8.py)
+- [Первому игроку приготовиться](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/9.py)
+- [Лучшая защита — шифрование](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/10.py)
+- [Красота спасёт мир](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/11.py)
+- [Музыкальный инструмент](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/12.py)
+- [Властелин Чисел: Братство общей цифры](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/13.py)
+- [Властелин Чисел: Две Башни](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/14.py)
+- [Властелин Чисел: Возвращение Цезаря](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/15.py)
+- [Легенды велогонок возвращаются: кто быстрее?](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/16.py)
+- [Корень зла](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/17.py)
+- [Территория зла](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/18.py)
+- [Автоматизация безопасности](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/19.py)
+- [Зайка — 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.2/20.py)
 </details>
 
 <details>
@@ -36,7 +74,26 @@
 </summary>
 
 Задачи:
-- [2.3](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3)
+- [Раз, два, три! Ёлочка, гори!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/1.py)
+- [Зайка — 3](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/2.py)
+- [Считалочка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/3.py)
+- [Считалочка 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/4.py)
+- [Внимание! Акция!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/5.py)
+- [НОД](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/6.py)
+- [НОК](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/7.py)
+- [Излишняя автоматизация 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/8.py)
+- [Факториал](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/9.py)
+- [Маршрут построен](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/10.py)
+- [Цифровая сумма](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/11.py)
+- [Сильная цифра](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/12.py)
+- [Первому игроку приготовиться 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/13.py)
+- [Простая задача](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/14.py)
+- [Зайка - 4](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/15.py)
+- [А роза упала на лапу Азора 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/16.py)
+- [Чётная чистота](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/17.py)
+- [Простая задача 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/18.py)
+- [Игра в «Угадайку»](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/19.py)
+- [Хайпанём немножечко!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.3/20.py)
 </details>
 
 <details>
@@ -45,7 +102,26 @@
 </summary>
 
 Задачи:
-- [2.4](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4)
+- [Таблица умножения](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/1.py)
+- [Не таблица умножения](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/2.py)
+- [Новогоднее настроение](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/3.py)
+- [Суммарная сумма](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/4.py)
+- [Зайка — 5](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/5.py)
+- [НОД 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/6.py)
+- [На старт! Внимание! Марш!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/7.py)
+- [Максимальная сумма](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/8.py)
+- [Большое число](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/9.py)
+- [Мы делили апельсин](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/10.py)
+- [Простая задача 3.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/11.py)
+- [Числовой прямоугольник](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/12.py)
+- [Числовой прямоугольник 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/13.py)
+- [Числовая змейка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/14.py)
+- [Числовая змейка 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/15.py)
+- [Редизайн таблицы умножения](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/16.py)
+- [А роза упала на лапу Азора 3.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/17.py)
+- [Новогоднее настроение 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/18.py)
+- [Числовой квадрат](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/19.py)
+- [Математическая выгода](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/20.py)
 </details>
 
 <details>
@@ -54,7 +130,26 @@
 </summary>
 
 Задачи:
-- [3.1](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1)
+- [Азбука](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/1.py)
+- [Кручу-верчу](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/2.py)
+- [Анонс новости](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/3.py)
+- [Очистка данных](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/4.py)
+- [А роза упала на лапу Азора 4.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/5.py)
+- [Зайка — 6](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/6.py)
+- [А и Б сидели на трубе](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/7.py)
+- [Зайка — 7](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/8.py)
+- [Без комментариев](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/9.py)
+- [Частотный анализ на минималках](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/10.py)
+- [Найдётся всё](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/11.py)
+- [Меню питания](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/12.py)
+- [Массовое возведение в степень](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/13.py)
+- [Массовое возведение в степень 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/14.py)
+- [НОД 3.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/15.py)
+- [Анонс новости 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/16.py)
+- [А роза упала на лапу Азора 5.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/17.py)
+- [RLE](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/18.py)
+- [Польский калькулятор](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/19.py)
+- [Польский калькулятор — 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.1/20.py)
 </details>
 
 <details>
@@ -63,5 +158,24 @@
 </summary>
 
 Задачи:
-- [3.2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2)
+- [Символическая выжимка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/1.py)
+- [Символическая разница](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/2.py)
+- [Зайка — 8](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/3.py)
+- [Кашееды](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/4.py)
+- [Кашееды — 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/5.py)
+- [Кашееды — 3](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/6.py)
+- [Азбука Морзе](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/7.py)
+- [Кашееды — 4](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/8.py)
+- [Зайка — 9](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/9.py)
+- [Транслитерация](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/10.py)
+- [Однофамильцы](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/11.py)
+- [Однофамильцы — 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/12.py)
+- [Дайте чего-нибудь новенького!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/13.py)
+- [Это будет шедевр!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/14.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
