@@ -187,6 +187,7 @@
 - [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
 
+<details>
 <summary>
 Модуль 3.3. Списочные выражения. Модель памяти для типов языка Python
 </summary>
