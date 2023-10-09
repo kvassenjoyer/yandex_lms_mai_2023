@@ -1,7 +1,7 @@
 # yandex_lms_mai_2023
 
 # Общее 
-Мои решения не претендуют на clean code, оптимальность по времени или по памяти. Они просто работают и проходят тесты. 
+Мои решения не претендуют на clean code, оптимальность по времени или по памяти. Они просто работают и проходят тесты.
 
 Пока что решены лишь следующие модули:
 - Модуль 2.1 (20/20)
@@ -10,6 +10,7 @@
 - Модуль 2.4 (20/20)
 - Модуль 3.1 (20/20)
 - Модуль 3.2 (20/20)
+- Модуль 3.3 (10/10)
 
 # Решения:
 <details>
@@ -183,5 +184,23 @@
 - [Карта сокровищ](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/18.py)
 - [Частная собственность](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/19.py)
 - [Простая задача 4.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.2/20.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
+
+<summary>
+Модуль 3.3. Списочные выражения. Модель памяти для типов языка Python
+</summary>
+
+Задачи:
+- [Список квадратов](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/01.py)
+- [Таблица умножения 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/02.py)
+- [Длины всех слов](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/03.py)
+- [Множество нечетных чисел](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/04.py)
+- [Множество всех полных квадратов](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/05.py)
+- [Буквенная статистика](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/06.py)
+- [Делители](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/07.py)
+- [Аббревиатура](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/08.py)
+- [Преобразование в строку](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/09.py)
+- [RLE наоборот](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/10.py)
 - [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>

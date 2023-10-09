@@ -1,0 +1,1 @@
+{symbol: text.lower().count(symbol) for symbol in text.lower() if symbol.isalpha()}
