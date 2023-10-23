@@ -8,6 +8,7 @@
 - Модуль 2.2 (20/20)
 - Модуль 2.3 (20/20)
 - Модуль 2.4 (20/20)
+- Модуль 2.5 (5/5)
 - Модуль 3.1 (20/20)
 - Модуль 3.2 (20/20)
 - Модуль 3.3 (10/10)
@@ -126,6 +127,20 @@
 - [Новогоднее настроение 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/18.py)
 - [Числовой квадрат](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/19.py)
 - [Математическая выгода](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.4/20.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
+
+<details>
+<summary>
+Модуль 2.5. КР «Базовые конструкции Python»
+</summary>
+
+Задачи:
+- [Математическое форматирование](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.5/01.py)
+- [Странный калькулятор](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.5/02.py)
+- [Числовое колебание](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.5/03.py)
+- [Интересный максимум](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.5/04.py)
+- [Минимальное среднее](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/2.5/05.py)
 - [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
 
