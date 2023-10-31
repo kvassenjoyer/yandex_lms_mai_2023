@@ -12,6 +12,7 @@
 - Модуль 3.1 (20/20)
 - Модуль 3.2 (20/20)
 - Модуль 3.3 (10/10)
+- Модуль 3.4 (20/20)
 
 # Решения:
 <details>
@@ -218,5 +219,34 @@
 - [Аббревиатура](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/08.py)
 - [Преобразование в строку](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/09.py)
 - [RLE наоборот](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.3/10.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
+
+<details>
+<summary>
+Модуль 3.4. Встроенные возможности по работе с коллекциями
+</summary>
+
+Задачи:
+- [Автоматизация списка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/01.py)
+- [Сборы на прогулку](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/02.py)
+- [Рациональная считалочка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/03.py)
+- [Словарная ёлка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/04.py)
+- [Список покупок](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/05.py)
+- [Колода карт](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/06.py)
+- [Игровая сетка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/07.py)
+- [Меню питания 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/08.py)
+- [Таблица умножения 3.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/09.py)
+- [Мы делили апельсин 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/10.py)
+- [Числовой прямоугольник 3.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/11.py)
+- [Список покупок 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/12.py)
+- [Расстановка спортсменов](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/13.py)
+- [Спортивные гадания](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/14.py)
+- [Список покупок 3.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/15.py)
+- [Расклад таков...](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/16.py)
+- [А есть ещё варианты?](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/17.py)
+- [Таблица истинности](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/18.py)
+- [Таблица истинности 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/19.py)
+- [Таблица истинности 3](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/20.py)
 - [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
