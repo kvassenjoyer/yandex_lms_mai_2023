@@ -13,6 +13,11 @@
 - Модуль 3.2 (20/20)
 - Модуль 3.3 (10/10)
 - Модуль 3.4 (20/20)
+- Модуль 3.5 (14/20)
+- Модуль 3.6 (5/5)
+- Модуль 4.1 (10/10)
+- Модуль 4.2 (10/10)
+- Модуль 4.3 (10/10)
 
 # Решения:
 <details>
@@ -248,5 +253,105 @@
 - [Таблица истинности](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/18.py)
 - [Таблица истинности 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/19.py)
 - [Таблица истинности 3](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.4/20.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
+
+<details>
+<summary>
+Модуль 3.5. Потоковый ввод/вывод. Работа с текстовыми файлами. JSON
+</summary>
+
+Задачи:
+- [A+B+...](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/01.py)
+- [Средний рост](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/02.py)
+- [Без комментариев 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/03.py)
+- [Найдётся всё 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/04.py)
+- [А роза упала на лапу Азора 6.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/05.py)
+- [Транслитерация 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/06.py)
+- [Файловая статистика](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/07.py)
+- [Файловая разница](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/08.py)
+- [Файловая чистка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/09.py)
+- [Хвост](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/10.py)
+- [Файловая статистика 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/11.py)
+- [Разделяй и властвуй](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/12.py)
+- [Обновление данных](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/13.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [Сколько вешать в байтах?](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.5/18.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
+
+<details>
+<summary>
+Модуль 3.6. КР «Коллекции и работа с памятью»
+</summary>
+
+Задачи:
+- [Шинковка строк](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.6/01.py)
+- [Словарная опись](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.6/02.py)
+- [Перераспределение по размеру](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.6/03.py)
+- [Словарный комбинатор](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.6/04.py)
+- [Алфавитная статистика](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/3.6/05.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
+
+<details>
+<summary>
+Модуль 4.1. Функции. Области видимости. Передача параметров в функции
+</summary>
+
+Задачи:
+- [Функциональное приветствие](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.1/01.py)
+- [Функциональный НОД](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.1/02.py)
+- [Длина числа](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.1/03.py)
+- [Имя of the month](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.1/04.py)
+- [Числовая строка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.1/05.py)
+- [Модернизация системы вывода](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.1/06.py)
+- [Шахматный «обед»](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.1/07.py)
+- [А роза упала на лапу Азора 7.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.1/08.py)
+- [Простая задача 5.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.1/09.py)
+- [Слияние](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.1/10.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
+
+<details>
+<summary>
+Модуль 4.2. Позиционные и именованные аргументы. Функции высших порядков. Лямбда-функции
+</summary>
+
+Задачи:
+- [Генератор списков](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.2/01.py)
+- [Генератор матриц](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.2/02.py)
+- [Функциональный нод 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.2/03.py)
+- [Имя of the month 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.2/04.py)
+- [Подготовка данных](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.2/05.py)
+- [Кофейня](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.2/06.py)
+- [В эфире рубрика «Эксперименты»](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.2/07.py)
+- [Длинная сортировка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.2/08.py)
+- [Чётная фильтрация](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.2/09.py)
+- [Ключевой секрет](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.2/10.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
+
+<details>
+<summary>
+Модуль 4.3. Рекурсия. Декораторы. Генераторы
+</summary>
+
+Задачи:
+- [Рекурсивный сумматор](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/01.py)
+- [Рекурсивный сумматор цифр](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/02.py)
+- [Многочлен N-ой степени](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/03.py)
+- [Декор результата](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/04.py)
+- [Накопление результата](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/05.py)
+- [Сортировка слиянием](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/06.py)
+- [Однотипность не порок](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/07.py)
+- [Генератор Фибоначчи](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/08.py)
+- [Циклический генератор](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/09.py)
+- ["Выпрямление" списка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/10.py)
 - [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>

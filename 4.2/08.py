@@ -1,0 +1,1 @@
+lambda word: (len(word), word.lower())

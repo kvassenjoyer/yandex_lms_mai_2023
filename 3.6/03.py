@@ -1,0 +1,1 @@
+[x for x in nums if 2 * x > min(nums) + max(nums)] + [x for x in nums if 2 * x <= min(nums) + max(nums)]
