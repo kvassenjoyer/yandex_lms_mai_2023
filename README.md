@@ -18,6 +18,7 @@
 - Модуль 4.1 (10/10)
 - Модуль 4.2 (10/10)
 - Модуль 4.3 (10/10)
+- Модуль 4.4 (5/5)
 
 # Решения:
 <details>
@@ -353,5 +354,19 @@
 - [Генератор Фибоначчи](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/08.py)
 - [Циклический генератор](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/09.py)
 - ["Выпрямление" списка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.3/10.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
+
+<details>
+<summary>
+Модуль 4.4. КР «Функции и их особенности в Python»
+</summary>
+
+Задачи:
+- [Мокрый вывод](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.4/01.py)
+- [Глобальное сочинение](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.4/02.py)
+- [Кратное суммирование](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.4/03.py)
+- [Генератор вхождений](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.4/04.py)
+- [Путешествие кролика](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.4/05.py)
 - [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
