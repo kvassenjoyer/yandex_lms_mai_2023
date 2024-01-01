@@ -370,3 +370,22 @@
 - [Путешествие кролика](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/4.4/05.py)
 - [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
+
+<details>
+<summary>
+Модуль 5.1. Объектная модель Python. Классы, поля и методы
+</summary>
+
+Задачи:
+- [Классная точка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/01.py)
+- [Классная точка 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/02.py)
+- [Не нажимай красную кнопку!](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/03.py)
+- [Работа не волк](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/04.py)
+- [Классный прямоугольник](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/05.py)
+- [Классный прямоугольник 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/06.py)
+- [Классный прямоугольник 3.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/07.py)
+- [Шашки](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/08.py)
+- [Очередь](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/09.py)
+- [Стек](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/10.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
