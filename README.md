@@ -19,6 +19,8 @@
 - Модуль 4.2 (10/10)
 - Модуль 4.3 (10/10)
 - Модуль 4.4 (5/5)
+- Модуль 5.1 (10/10)
+- Модуль 5.2 (10/10)
 
 # Решения:
 <details>
@@ -387,5 +389,24 @@
 - [Шашки](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/08.py)
 - [Очередь](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/09.py)
 - [Стек](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.1/10.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
+
+<details>
+<summary>
+Модуль 5.2. Волшебные методы, переопределение методов. Наследование
+</summary>
+
+Задачи:
+- [Классная точка 3.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.2/01.py)
+- [Классная точка 4.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.2/02.py)
+- [Классная точка 5.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.2/03.py)
+- [Дроби v0.1](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.2/04.py)
+- [Дроби v0.2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.2/05.py)
+- [Дроби v0.3](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.2/06.py)
+- [Дроби v0.4](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.2/07.py)
+- [Дроби v0.5](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.2/08.py)
+- [Дроби v0.6](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.2/09.py)
+- [Дроби v0.7](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.2/10.py)
 - [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
