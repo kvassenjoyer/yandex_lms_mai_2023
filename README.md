@@ -410,3 +410,22 @@
 - [Дроби v0.7](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.2/10.py)
 - [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
+
+<details>
+<summary>
+Модуль 5.3. Модель исключений Python. Try, except, else, finally. Модули
+</summary>
+
+Задачи:
+- [Обработка ошибок](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/01.py)
+- [Ломать — не строить](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/02.py)
+- [Ломать — не строить 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/03.py)
+- [Контроль параметров](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/04.py)
+- [Слияние с проверкой](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/05.py)
+- [Корень зла 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/06.py)
+- [Валидация имени](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/07.py)
+- [Валидация имени пользователя](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/08.py)
+- [Валидация пользователя](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/09.py)
+- [Валидация пароля](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/10.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
