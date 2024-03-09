@@ -22,6 +22,7 @@
 - Модуль 5.1 (10/10)
 - Модуль 5.2 (10/10)
 - Модуль 5.3 (10/10)
+- Модуль 6.1 (10/10)
 
 # Решения:
 <details>
@@ -428,5 +429,24 @@
 - [Валидация имени пользователя](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/08.py)
 - [Валидация пользователя](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/09.py)
 - [Валидация пароля](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.3/10.py)
+- [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
+</details>
+
+<details>
+<summary>
+Модуль 6.1. Модули math и numpy
+</summary>
+
+Задачи:
+- [Математика — круто, но это не точно](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.1/01.py)
+- [Потоковый НОД](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.1/02.py)
+- [Есть варианты?](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.1/03.py)
+- [Среднее не арифметическое](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.1/04.py)
+- [Шаг навстречу](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.1/05.py)
+- [Матрица умножения](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.1/06.py)
+- [Шахматная подготовка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.1/07.py)
+- [Числовая змейка 3.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.1/08.py)
+- [Вращение](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.1/09.py)
+- [Лесенка](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.1/10.py)
 - [<<В разработке>>](https://www.youtube.com/playlist?list=PLms4_0ynGuswxbx6VI-5AOBcJm7gBRuCa)
 </details>
