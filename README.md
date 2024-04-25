@@ -404,7 +404,7 @@
 Задачи:
 - [Пользователь 1.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.4/01.py)
 - [Пользователь 1.1](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.4/02.py)
-- [Пользователь 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.4/02.py)
+- [Пользователь 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.4/03.py)
 - [Пользователь 2.1 (не решено)](https://vk.com/video1591678_168445894)
 </details>
 
