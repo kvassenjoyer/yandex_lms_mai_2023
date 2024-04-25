@@ -404,7 +404,7 @@
 Задачи:
 - [Пользователь 1.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.4/01.py)
 - [Пользователь 1.1](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.4/02.py)
-- [Пользователь 2.0 (не решено)](https://vk.com/video1591678_168445894)
+- [Пользователь 2.0](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/5.4/02.py)
 - [Пользователь 2.1 (не решено)](https://vk.com/video1591678_168445894)
 </details>
 
@@ -442,4 +442,22 @@
 - [Обновление журнала](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.2/08.py)
 - [Бесконечный морской бой](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.2/09.py)
 - [Экстремум функции](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.2/10.py)
+</details>
+
+<details>
+<summary>
+Модуль 6.3. Модуль requests
+</summary>
+
+Задачи:
+- [Проверка системы](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.3/01.py)
+- [Суммирование ответов](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.3/02.py)
+- [Суммирование ответов 2](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.3/03.py)
+- [Конкретное значение](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.3/04.py)
+- [Суммирование ответов 3](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.3/05.py)
+- [Список пользователей](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.3/06.py)
+- [Рассылка сообщений](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.3/07.py)
+- [Регистрация нового пользователя](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.3/08.py)
+- [Изменение данных](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.3/09.py)
+- [Удаление данных](https://github.com/kvassenjoyer/yandex_lms_mai_2023/blob/master/6.3/10.py)
 </details>
