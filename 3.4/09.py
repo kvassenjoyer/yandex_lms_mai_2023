@@ -7,7 +7,7 @@ def main():
 
     n = int(input())
 
-    for element in itertools.product(range(1, n + 1), repeat=3):
+    for element in itertools.product(range(1, n + 1), repeat=2):
         if element[-1] == n:
             print(math.prod(element))
         else:
